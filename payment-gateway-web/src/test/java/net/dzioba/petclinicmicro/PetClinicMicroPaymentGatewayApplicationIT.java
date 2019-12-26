@@ -1,10 +1,10 @@
-package net.dzioba.petclinicmicro.petclinicmicropaymentgatewayapp;
+package net.dzioba.petclinicmicro;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class PetClinicMicroPaymentGatewayAppApplicationTests {
+class PetClinicMicroPaymentGatewayApplicationIT {
 
     @Test
     void contextLoads() {
